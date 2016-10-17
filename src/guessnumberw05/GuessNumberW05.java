@@ -60,3 +60,5 @@ public class GuessNumberW05{
     }//end main
 
 }//end class
+
+// Good, but instead of while (true), please declare a boolean to hold the exit condition.   This boolean var is to be set when user then ter Y/y.
